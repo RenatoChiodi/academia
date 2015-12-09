@@ -1,0 +1,9 @@
+	     Sistema para Acompanhamento de Hipertensos
+	
+Sistema desenvolvido por Renato Davi Chidi, para o Projeto final da academica 
+Denise Mueller, para a conclusão do curso bacharelado em Educação Fisica da
+Universidade da região de Joinville.
+ 
+     contatos:
+ 	   Academica: nisinha_menina@hotmail.com
+ 	   Desenvolvedor: renatod.chiodi@gmail.com
